@@ -1,0 +1,19 @@
+{
+  "name": "ebankify",
+  "description": "Convert rakuten bank to ebank",
+  "version": "0.0.1",
+  "content_scripts": [
+    {
+      "js": [
+        "script.js"
+      ],
+      "css": [
+        "style.css"
+      ],
+      "matches": [
+        "https://fes.rakuten-bank.co.jp/*"
+      ]
+    }
+  ],
+  "manifest_version": 2
+}

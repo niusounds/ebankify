@@ -1,0 +1,4 @@
+/* Hide trash objects */
+iframe, .list-img-segment-bnr {
+    display: none;
+}
