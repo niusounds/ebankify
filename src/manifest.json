@@ -11,7 +11,7 @@
         "style.css"
       ],
       "matches": [
-        "https://fes.rakuten-bank.co.jp/*"
+        "https://*.rakuten-bank.co.jp/*"
       ]
     }
   ],
