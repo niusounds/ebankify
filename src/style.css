@@ -1,4 +1,4 @@
 /* Hide trash objects */
-iframe, .list-img-segment-bnr {
+iframe, .list-img-segment-bnr, #jack-contents, .auto-tabs, .js-ad-area, .box-promotion, .area-bnr, table.margintop10 {
     display: none;
 }
